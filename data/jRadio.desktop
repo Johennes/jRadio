@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=jRadio
+Name[en_US]=jRadio
+GenericName=jRadio Internet Radio Player
+GenericName[en_US]=jRadio Internet Radio Player
+Comment=Plays internet radio streams
+Comment[en_US]=Plays internet radio streams
+Exec=jRadio
+TryExec=jRadio
+Icon=jRadio
+Terminal=false
+Categories=AudioVideo;Player;GTK;
+StartupNotify=false
