@@ -1,3 +1,9 @@
+##############################################################################
+## configure.ac
+##
+## Copyright 2011 Johannes Marbach. All rights reserved.
+## See the LICENSE file for details.
+
 AC_INIT([jRadio], [0.1.3], [JohannesMarbach@googlemail.com])
 AM_INIT_AUTOMAKE([-Wall -Werror foreign])
 
