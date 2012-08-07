@@ -18,7 +18,7 @@
 #include <string>
 
 #include <gtkmm/stock.h>
-
+#include <glibmm/main.h>
 
 namespace jRadio
 {
