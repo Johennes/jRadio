@@ -11,3 +11,20 @@ following features
 * meta data support
 * playlist history
 * customizable station icons
+
+### How to Install
+
+To compile the sources use the following commands from the root directory.
+
+``` shell
+autoreconf -vif
+./configure [--prefix=PREFIX]
+make
+```
+
+Afterwards you can install the application into the specified PREFIX directory
+by using the command
+
+``` shell
+make install
+```
