@@ -30,3 +30,13 @@ by using the command
 ```shell
 make install
 ```
+
+### Screenshots
+
+![Main window 1](screenshots/main-window-1.png)
+
+![Main window 2](screenshots/main-window-2.png)
+
+![Main window 3](screenshots/main-window-3.png)
+
+![Station Dialog](screenshots/station-dialog.png)
