@@ -1,7 +1,7 @@
 jRadio
 ======
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+*Mirrors: [GitHub] ~ [GitLab]*
 
 An internet radio player for the Linux desktop
 
@@ -40,3 +40,6 @@ make install
 ![Main window 3](screenshots/main-window-3.png)
 
 ![Station Dialog](screenshots/station-dialog.png)
+
+[GitHub]: https://github.com/Johennes/jRadio
+[GitLab]: https://gitlab.com/cherrypicker/jRadio
