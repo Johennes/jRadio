@@ -1,8 +1,6 @@
 jRadio
 ======
 
-*Mirrors: [GitHub] ~ [GitLab]*
-
 An internet radio player for the Linux desktop
 
 jRadio is an easy to use internet radio player for your Linux desktop. The
@@ -40,6 +38,3 @@ make install
 ![Main window 3](screenshots/main-window-3.png)
 
 ![Station Dialog](screenshots/station-dialog.png)
-
-[GitHub]: https://github.com/Johennes/jRadio
-[GitLab]: https://gitlab.com/cherrypicker/jRadio
